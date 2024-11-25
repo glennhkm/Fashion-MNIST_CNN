@@ -1,7 +1,7 @@
 # **Glenn Hakim - 2208107010072**
 
 ## Dataset
-[Fashion-MNIST from Keras](https://keras.io/api/datasets/fashion_mnist/).
+[Fashion-MNIST from Keras](https://keras.io/api/datasets/fashion_mnist/)
 
 ## How to run the code?
 1. Clone this project
