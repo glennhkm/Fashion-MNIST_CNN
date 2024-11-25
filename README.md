@@ -1,7 +1,7 @@
 # **Glenn Hakim - 2208107010072**
 
 ## Dataset
-**Fashion-MNIST from Keras**
+[Fashion-MNIST from Keras](https://keras.io/api/datasets/fashion_mnist/).
 
 ## How to run the code?
 1. Clone this project
@@ -11,4 +11,4 @@
 
 ## How to open Tensorboard?
 1. After all the code has execute successfully, run `tensorboard --logdir=event-tensorboard/fit`
-2. Open `http://localhost:6006/?darkMode=true#timeseries` on your browser
+2. Open `http://localhost:6006` on your browser
